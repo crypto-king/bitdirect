@@ -1,4 +1,4 @@
-// Copyright (c) 2012-2016, The CryptoNote developers, The Bytecoin developers, BITDirect Developers
+// Copyright (c) 2012-2016, The CryptoNote developers, The Bytecoin developers
 //
 // This file is part of Bytecoin.
 //
@@ -307,7 +307,6 @@ namespace Crypto {
 	  KeyImage aP;
 	  ge_tobytes(reinterpret_cast<unsigned char*>(&aP), &R);
 	  return aP;
-	  
   }
 
   void crypto_ops::hash_data_to_ec(const uint8_t* data, std::size_t len, PublicKey& key) {
