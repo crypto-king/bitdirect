@@ -2,6 +2,7 @@
 // Copyright (c) 2014-2016 XDN developers
 // Copyright (c) 2014-2017 The Forknote developers
 // Copyright (c) 2016-2017 The Karbovanets developers
+// Copyright (c) 2017 BITDirect Developers
 //
 // This file is part of Bytecoin.
 //
@@ -557,7 +558,13 @@ bool simple_wallet::init(const boost::program_options::variables_map& vm) {
   }
 
   if (m_generate_new.empty() && m_wallet_file_arg.empty()) {
-    std::cout << "Nor 'generate-new-wallet' neither 'wallet-file' argument was specified.\nWhat do you want to do?\n[O]pen existing wallet, [G]enerate new wallet file, [I]mport wallet, [R]estore Backup/Paperwallet, [T]rack tracking wallet or [E]xit.\n";
+    std::cout << "Nor 'generate-new-wallet' neither 'wallet-file' argument was specified.\nWhat do you want to do?\n";
+  	std::cout << "O - Open wallet\n";
+   	std::cout << "G - Generate new wallet\n";
+  	std::cout << "I - Import wallet\n";
+  	std::cout << "R - Restore backup/paperwallet\n";
+    std::cout << "T - Track tracking wallet\n";
+ 	  std::cout << "E - Exit\n";
     char c;
     do {
       std::string answer;
