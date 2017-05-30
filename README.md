@@ -15,14 +15,6 @@ Forum - https://bitcointalk.org/index.php?topic=1857875.msg
 
 
 
-This is fork of the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
-
-* Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
-* CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
-* Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
-
-Forking guilde is omitted here.
-
 ## Building Bitdirect
 
 ### On *nix
