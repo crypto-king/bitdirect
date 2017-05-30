@@ -9,7 +9,11 @@ Max Supply: 15,000,000,000  |  Target: 60 seconds | Emission: 24  |  U/W: 3 
 
 -------------------------------------------
 
-Forum - https://bitcointalk.org/index.php?topic=1857875.msg
+Bitdirect Forum (Main) - https://bitcointalk.org/index.php?topic=1857875.msg
+
+Twitter - https://twitter.com/Bitdirect_BITD
+
+Bitcoingarden - http://bitcoingarden.org/forum/index.php?topic=14972.msg155804#new
 
 -------------------------------------------
 
