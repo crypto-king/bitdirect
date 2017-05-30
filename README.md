@@ -5,7 +5,7 @@ Symbol: BITD  |  Algorithm: Cryptonight  |  Egalitarian proof of work  |  
 
 Max Supply: 15,000,000,000  |  Target: 60 seconds | Emission: 24  |  U/W: 3 seconds |  P2P: 39500  |  RPC: 39400
 
-![alt tag](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgsafe.org%2Fa4b0a308b7.png&t=575&c=GKRcxZaRpeH_iA)
+![alt tag](http://i.imgur.com/kKAvkcn.png)
 
 -------------------------------------------
 
