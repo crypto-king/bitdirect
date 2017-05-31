@@ -13,7 +13,9 @@ Bitdirect Forum (Main) - https://bitcointalk.org/index.php?topic=1857875.msg
 
 Twitter - https://twitter.com/Bitdirect_BITD
 
-Bitcoingarden - http://bitcoingarden.org/forum/index.php?topic=14972.msg155804#new
+Bitcoingarden.org - http://bitcoingarden.org/forum/index.php?topic=14972.msg155804#new
+
+Cryptotalk.org - https://www.cryptotalk.org/index.php?/topic/716-bitdirect-bitd/
 
 -------------------------------------------
 
